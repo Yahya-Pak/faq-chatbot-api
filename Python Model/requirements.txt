@@ -1,6 +1,5 @@
 flask
 sentence-transformers
+torch==2.2.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
 faiss-cpu
-pandas
-numpy
-gunicorn
+scikit-learn
