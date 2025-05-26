@@ -1,0 +1,22 @@
+﻿Id,Keyword,Question,Answer
+1,How do I upload a document?,How do I upload a document?,"Go to the upload section, click ""Choose File"", select your document, and click ""Upload""."
+2,What file formats are supported?,What file formats are supported?,"The system supports PDF, DOCX, XLSX, and JPG file formats."
+3,How can I delete a document?,How can I delete a document?,"Navigate to ""My Documents"", select the file, and click the ""Delete"" button."
+4,Can I edit a document after uploading?,Can I edit a document after uploading?,"No, you must delete and re-upload the document with modifications."
+5,How can I share a document with a colleague?,How can I share a document with a colleague?,"Use the ""Share"" button on the document details page and enter the recipient’s email."
+6,Is there a file size limit for uploads?,Is there a file size limit for uploads?,"Yes, the maximum file size is 50MB per document."
+7,Can I download documents from the system?,Can I download documents from the system?,"Yes, you can click the ""Download"" button next to the document in your list."
+8,How do I reset my password?,How do I reset my password?,"Go to the login page and click ""Forgot Password"" to reset your credentials."
+9,Who can access my documents?,Who can access my documents?,"Documents are private by default, but you can share them with specific users."
+10,How do I search for a document?,How do I search for a document?,Use the search bar in the dashboard to find documents by title or tags.
+11,Can I categorize my documents?,Can I categorize my documents?,"Yes, you can add tags to your documents for better organization."
+12,What happens if I accidentally delete a document?,What happens if I accidentally delete a document?,Deleted documents cannot be recovered. Please be cautious before deleting.
+13,How can I see my recent uploads?,How can I see my recent uploads?,"Your most recent uploads appear in the ""Recent Documents"" section on the dashboard."
+14,Do I get notified when someone shares a document with me?,Do I get notified when someone shares a document with me?,"Yes, you will receive an email notification when a document is shared."
+15,Can I access my documents on mobile?,Can I access my documents on mobile?,"Yes, the DMS is mobile-friendly and can be accessed via a browser on your phone."
+16,What is the retention policy for documents?,What is the retention policy for documents?,Documents are stored indefinitely unless deleted by the user.
+17,How do I change my account email?,How do I change my account email?,Contact the administrator to update your registered email address.
+18,Is there an activity log for document actions?,Is there an activity log for document actions?,"Yes, each document has an audit log that tracks uploads, edits, and shares."
+19,How can I report a technical issue?,How can I report a technical issue?,"Go to ""Help & Support"" and submit a ticket describing the issue."
+20,Can I integrate DMS with third-party applications?,Can I integrate DMS with third-party applications?,"Yes, DMS provides API support for integrations with other software."
+21,Is my data secure?,Is my data secure?,"Yes, all documents are encrypted and stored securely to protect user privacy."
